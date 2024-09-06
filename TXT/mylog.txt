@@ -1,6 +1,8 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
+ZCZC W01 240 L11 Assignment #01
+ZCZC W01 200 L02 CLASSROOM/ZOOM meetings realted
 ZCZC W00 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W00 45  L32 YouTube: watching OS related topics, etc.
 ZCZC W00 20  L03 Github related
