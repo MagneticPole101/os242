@@ -10,8 +10,8 @@ permalink: LINKS/
   Membahas OS secara singkat. Pembahasannya mencakup sedikit tentang concurrency, bagaimana OS mengatur memory, dan sedikit tentang file system.
 * [C language playlist](https://youtube.com/playlist?list=PLEDF53DC200BAF48D&si=-b9C5YhIv3OBd4T3) ---
   Membahas bahasa C. He explains pointer clearly.
-* [Unfinished](https://docos.vlsm.org/) ---
-  Buku komet.
+* [Operating Systems Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/#book-chapters) ---
+  Free OS book. For me this book is great.
 
 <br>
 <hr>
