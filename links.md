@@ -4,17 +4,14 @@ permalink: LINKS/
 
 # LINKS
 
-* [Operating Systems](https://os.vlsm.org/) ---
-  This site contains links to lecture materials, exam questions, and laboratory materials.
-* [System Programming](https://sp.vlsm.org/) ---
-  This site is based on “Google Here, Google There, Try This, Try That, and then Ask Anybody.
-* [Operating Systems Programming Weekly Assignments](https://demos.vlsm.org/){:target="_blank"} ---
-  The Deadline is 7 (seven) days after the assignment was announced.
-* [Operating Systems Programming Slides](https://docos.vlsm.org/) ---
-  Slides with LaTeX sources code.
-* [Linux Crash Course - Easy Terminal Commands for Inspecting Hardware](https://youtu.be/oGyJr-iUwt8?si=59V2boc0XfmlFekg) ---
-Some easy-to-use commands you can use to inspect hardware. 
-These commands will help you list PCI devices, view information about your CPU, and more.
+* [Hardware Basics](https://youtu.be/9-KUm9YpPm0?si=SnqrkQ4wrHCVDgS9) ---
+  Membahas dasar-dasar hardware seperti RAM, register, memory-mapped & port mapped I/O, interrupt dll.
+* [OS Basics](https://youtu.be/9GDX-IyZ_C8?si=c1i3ePu7MaUrI5_0) ---
+  Membahas OS secara singkat. Pembahasannya mencakup sedikit tentang concurrency, bagaimana OS mengatur memory, dan sedikit tentang file system.
+* [C language playlist](https://youtube.com/playlist?list=PLEDF53DC200BAF48D&si=-b9C5YhIv3OBd4T3) ---
+  Membahas bahasa C. He explains pointer clearly.
+* [Unfinished](https://docos.vlsm.org/) ---
+  Buku komet.
 
 <br>
 <hr>
