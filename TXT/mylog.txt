@@ -1,6 +1,11 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
+ZCZC W03 60  L06 Reading OSTEP book
+ZCZC W03 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W03 120 L13 Assingment #03
+ZCZC W03 10  L62 Backup ova
+ZCZC W03 60  L13 Assignment #03
 ZCZC W02 60  L05 QUIZ and learning for it
 ZCZC W02 20  L62 Backup Virtual Debian Guest 
 ZCZC W02 15  L61 Reinstall Virtual Box
