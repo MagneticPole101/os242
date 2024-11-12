@@ -1,6 +1,8 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
+ZCZC W08 30  L09 Assignment on SCELE
+ZCZC W08 150 L18 Assingment #08
 ZCZC W07 90  L06 Reading and review OSTEP
 ZCZC W07 90  L09 Assignment on SCELE
 ZCZC W07 120 L17 Assingment #07
